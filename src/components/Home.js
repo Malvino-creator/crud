@@ -6,8 +6,9 @@ import Employees from './Employees';
 
 function Home() {
   return (
-    <div>Home</div>
+    <div style={{margin:"18rem"}}>Home</div>
   )
+
 }
 
 export default Home
